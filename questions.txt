@@ -1,0 +1,90 @@
+<Q>Who was the first Constitutional President of the United States of America?</>
+[V]100[/]
+[A]1[/]
+[E]While there were other Presidents of the Continental Congress before him, George Washington was the first Constitutional President[/]
+[1]George Washington[/]
+[2]John Adams[/]
+[3]Thomas Jefferson[/]
+[4]Abraham Lincoln[/]
+<Q>In October 1981, which popular American group released their hit single Don't Stop Believing</>
+[V]100[/]
+[A]2[/]
+[E]Journey was formed in 1973, and released Escape in 1981 which included their all time most popular song (and best selling digital song of the twentieth century) Don't Stop Believing[/]
+[1]The Rolling Stones[/]
+[2]Journey[/]
+[3]Aerosmith[/]
+[4]The Beatles[/]
+<Q>In physics, Newtons First Law of Motion states:</>
+[V]200[/]
+[A]4[/]
+[E]Newtons First Law of Motion states that an object will maintain its motion until acted upon by an outside force.[/]
+[1]For every action there is an equal and opposite reaction[/]
+[2]No object can move faster than the speed of light[/]
+[3]What goes up, must come down[/]
+[4]An object will maintain its motion until acted upon by an outside force[/]
+<Q>True or false: In Ancient Egypt, southern Egypt was called Lower Egypt, while Upper Egypt was in the north</>
+[V]300[/]
+[A]2[/]
+[E]Southern Egypt was known as the Upper Kingdom, while the north was called Lower Egypt. This is because the Nile flows from south to north[/]
+[1]TRUE[/]
+[2]FALSE[/]
+<Q>Who was the Prime Minister of the United Kingdom when WWII ended?</>
+[V]100[/]
+[A]3[/]
+[E]Winston Churchill is famous for leading the UK through WWII[/]
+[1]Franklin D Roosevelt[/]
+[2]George Carlson[/]
+[3]Winston Churchill[/]
+[4]Justin Trudeau[/]
+<Q>What is the name of the second planet from the sun in our solar system?</>
+[V]100[/]
+[A]2[/]
+[E]Venus is the second planet from the sun. Venus is also the closest planet in the solar system to Earth in terms of size and mass.[/]
+[1]Mercury[/]
+[2]Venus[/]
+[3]Earth[/]
+[4]Mars[/]
+<Q>What were the three nations that made up the Axis of Powers in WWII?</>
+[V]150[/]
+[A]3[/]
+[E]Germany, Italy, and Japan were the Axis Powers[/]
+[1]Russia, China, Korea[/]
+[2]Germany, Japan, Austria[/]
+[3]Germany, Italy, Japan[/]
+[4]USA, UK, Russia[/]
+<Q>In computers, CPU stands for:</>
+[V]150[/]
+[A]3[/]
+[E]The Central Processing Unit is basically the brain of the computer[/]
+[1]Capital Programming Unit[/]
+[2]Certainty Principle Unifier[/]
+[3]Central Processing Unit[/]
+[4]Central Programming Unit[/]
+<Q>During the US Civil War, what was the battle that turned the war in the North's favor?</>
+[V]150[/]
+[A]2[/]
+[E]The Battle of Gettysburg is considered the turning point for the north in the war.[/]
+[1]Battle of Bull Run[/]
+[2]Battle of Gettysburg[/]
+[3]Battle of Lexington[/]
+[4]Battle of Concord[/]
+<EOF>
+
+Everything below <EOF> is ignored.
+
+This is the question template, you can add or remove numbered ones as necessary
+<Q></>
+[V][/]
+[A][/]
+[E][/]
+[1][/]
+[2][/]
+[3][/]
+[4][/]
+
+Q = question
+V = value (e.g., 100)
+A = answer
+E = explaination
+
+It's imperative to the operaton of the game that the lettered ones stay in order
