@@ -35,7 +35,7 @@ vector<vector<string>>* Game::parsePlayerFile(string filelocation) {
 vector<vector<string>>* Game::getPlayer(string name) {
     vector<vector<string>>* plrList = this->parsePlayerFile("D:/Alert5Studios/TriviaGame/players.txt");
 
-
+    return plrList;
 }
 
 //Initialize the game controller instance
