@@ -70,7 +70,7 @@ void Game::init() {
     cout << "3) 1945\n";
     cout << "4) 1946\n\n";
 
-    cout << "In this example you would answer with: 2\n\n";
+    cout << "In this example you would answer with: 3\n\n";
 
     cout << "Are you ready to begin?\n";
     cout << "1) Yes!\n";
